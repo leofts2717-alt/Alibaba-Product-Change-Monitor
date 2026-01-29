@@ -17,7 +17,7 @@ CHECK_INTERVAL = 180
 MASSIVE_THRESHOLD = 8
 
 # 3. 文件路径
-CSV_FILE_PATH = r"C:\Users\wlh03\Desktop\AliMonitor\result.csv"
+CSV_FILE_PATH = r"C:\Users\Yourname\Desktop\AliMonitor\result.csv"
 
 # 4. 锚点
 ANCHOR_INDICES = [10, 20, 30, 40, 48] 
